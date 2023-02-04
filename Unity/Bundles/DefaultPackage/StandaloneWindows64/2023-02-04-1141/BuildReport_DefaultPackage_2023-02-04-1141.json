@@ -1,0 +1,52 @@
+{
+    "Summary": {
+        "YooVersion": "1.4.2-preview",
+        "UnityVersion": "2021.3.6f1c1",
+        "BuildDate": "2023/2/4 19:01:48",
+        "BuildSeconds": 9,
+        "BuildTarget": 19,
+        "BuildPipeline": 0,
+        "BuildMode": 0,
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "2023-02-04-1141",
+        "EnableAddressable": true,
+        "UniqueBundleName": true,
+        "EncryptionServicesClassName": "null",
+        "OutputNameStyle": 1,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 1,
+        "MainAssetTotalCount": 1,
+        "AllBundleTotalCount": 1,
+        "AllBundleTotalSize": 13168,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0,
+        "RawBundleTotalCount": 0,
+        "RawBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "DlgLogin",
+            "AssetPath": "Assets/Bundles/UI/Dlg/DlgLogin.prefab",
+            "AssetGUID": "a87e203f6599b18489cb615ec32b682d",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_bundles_ui_dlg.bundle",
+            "MainBundleSize": 13168,
+            "DependBundles": [],
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "defaultpackage_assets_bundles_ui_dlg.bundle",
+            "FileName": "bdb3f1a549d9e6d1363c7769f2e7932e.bundle",
+            "FileHash": "bdb3f1a549d9e6d1363c7769f2e7932e",
+            "FileCRC": "a6c98b50",
+            "FileSize": 13168,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": []
+        }
+    ]
+}

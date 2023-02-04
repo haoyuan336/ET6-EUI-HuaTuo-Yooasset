@@ -1,0 +1,27 @@
+{
+    "FileVersion": "1.4.0",
+    "EnableAddressable": true,
+    "OutputNameStyle": 1,
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2023-02-04-1141",
+    "AssetList": [
+        {
+            "Address": "DlgLogin",
+            "AssetPath": "Assets/Bundles/UI/Dlg/DlgLogin.prefab",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "defaultpackage_assets_bundles_ui_dlg.bundle",
+            "FileHash": "bdb3f1a549d9e6d1363c7769f2e7932e",
+            "FileCRC": "a6c98b50",
+            "FileSize": 13168,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": []
+        }
+    ]
+}
